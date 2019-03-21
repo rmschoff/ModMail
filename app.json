@@ -23,10 +23,6 @@
       "description": "Mongo DB connection URI for self-hosting your data.",
       "required": true
     },
-    "LOG_URL": {
-      "description": "The url of the log viewer app for viewing self-hosted logs.",
-      "required": true
-    },
     "HASTE_URL": {
       "description": "If You Have Your Own Self Hosted Hastebin then give the link here.",
       "required": false
